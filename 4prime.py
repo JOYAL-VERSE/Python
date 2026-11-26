@@ -1,5 +1,5 @@
 n=int(input("Enter the number:"))
-if n <= 1 :
+if n <= 2 :
     print(n,"is not a prime number")
 else:
     for i in range(2,n):
